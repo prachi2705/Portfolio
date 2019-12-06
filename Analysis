@@ -1,0 +1,40 @@
+Final Assignment
+
+
+
+This is an analysis of survey and results collected on mental health. The data is narrowed down to finding out top 10 countries in survey and using thise 10 countries to create analysis on 
+mental health factors. I used some variables that were categorical in nature. 
+
+I used top ten countries for geographical representation. I used some column variables as indicators of mental illness. I also clenaed the data for gender and used the data over geographical area.
+
+I chose these variables beacuse I think they reflect attitude towards mental health
+
+Do you have a family history of mental illness? 
+
+Insight: A large portion of the surveyors in all the top ten countries don't have any family history of mental illness
+
+Have you sought treatment for a mental health condition?
+
+Insight: Majority of people have sought treatment for mental health issues over all the countries.
+
+Is your employer primarily a tech company/organization?
+
+Insight: Most of the surveyors are working for tech company
+
+Has your employer ever discussed mental health as part of an employee wellness program?
+
+Insight: A large proportion of surveyors have confessed that their employer never discussed about any wellness program available at workplace.
+
+Do you feel that your employer takes mental health as seriously as physical health?
+
+Insight: Majority said that tehy don't know which emans there in so communication between employers and employees about mental health issues and/or treatment
+
+Do you think that discussing a mental health issue with your employer would have negative consequences? 
+
+Insight: A large proportion of the surveyors think that there might be negative consequences for discussing a mental health issues with their employer.
+
+Do you think that discussing a physical health issue with your employer would have negative consequences?
+
+Insight: A very large proportion of the surveyors think that there would be no negative consequences for discussing a physical health issues with their employer while some are not sure about that.
+
+Gender: the variable has been cleaned and grouped into three categories namely: male, female and trans and then the data is accessed to observe that more Males are surveyed
